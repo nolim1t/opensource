@@ -1,19 +1,27 @@
-# Open Source Libraries
+# My Open Source Libraries
 
-## RubyGems
+I love open source, both using it and also giving back.
+
+## Ruby Gems
+
+These ruby gems are all submitted to rubygems.org
 
 ### Miscellaneous
 
-* dont-overstay (Day counter for digital nomads)
+* **dont-overstay** (Day counter for digital nomads)
 
 ### Bitcoin Exchanges
 
-* nl-independentreserve (Independent Reserve)
-* nl-btcmarkets (BTCMarkets)
-* nl-anx (ANX BTC)
-* nl-gatecoin (Gatecoin)
+I use bitcoin to get money across borders. Here are the current published libraries I was using.
 
-## Node.js
+* **nl-independentreserve** (Independent Reserve / Australia)
+* **nl-btcmarkets** (BTCMarkets / Australia)
+* **nl-anx** (ANX BTC / Hong Kong)
+* **nl-gatecoin** (Gatecoin / Hong Kong)
+
+## Node.js Modules
+
+These node.js modules are submitted to npmjs.org
 
 * **create_github_commit** - Library to use the git data API on github to create files
 * **fuckingundefinedemptynull** - Fighting javascript nulls and undefines one library at a time.

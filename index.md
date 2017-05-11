@@ -4,6 +4,13 @@ I love open source, both using it and also giving back.
 
 ## In Progress
 
+### BX.in.TH API Library
+
+I used to use coins.co.th for cashout without a bank account, however now I have a thai bank account getting money to Thailand is as simple as sending to a particular address and then cashing out this way (then using my ATM card to get cash).
+
+And using the API, I can programmatically control a few things.
+
+
 ### BitMEX API Library
 
 I'm working on the BitMEX API at the moment, as I see it can be a powerful tool for hedging volatility of my bitcoin holdings (and also making a bit of money when trading at high leverage through speculation).

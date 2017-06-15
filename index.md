@@ -23,6 +23,7 @@ These node.js modules are submitted to npmjs.org
 * [**nl-bxth**](https://github.com/nolim1t/nl-bxth) - BX.in.th Exchange API Library
 * [**nl-bitmex**](https://github.com/nolim1t/nl-bitmex) - Bitmex Exchange API Library
 * [**nl-poloniex**](https://github.com/nolim1t/nl-poloniex) - Poloniex Exchange API library
+* [**nl-kraken**](https://github.com/nolim1t/nl-kraken) - Kraken API Library
 
 ## Other Cool stuff
 

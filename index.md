@@ -1,6 +1,10 @@
 # My Open Source Libraries
 
-I love open source, both using it and also giving back.
+I love open source and sharing in general (sharing is caring). Both using it and also giving back (through either pull requests to other repositories, issues, or giving money).
+
+As always, you may find my github profile [here](https://github.com/nolim1t).
+
+But this page gives a succinct summary of what I've done
 
 ## Bitcoin Exchanges (RubyGems)
 

@@ -22,7 +22,7 @@ These node.js modules are submitted to npmjs.org
 * [**decode-post-body-params**](https://github.com/nolim1t/decode-post-body-params) - Decoding body parameters
 * [**assign-obj-params**](https://github.com/nolim1t/assign-obj-params) - I made this very simple library to help me with my other libraries. I found it useful so I may as well just deploy it as a npm and modularize my code more
 * [**nl-bxth**](https://github.com/nolim1t/nl-bxth) - BX.in.th Exchange API Library
-* [**nl-bitmex**](https://github.com/nolim1t/nl-bitmex) - Bitmex Exchange API Library
+* [**nl-bitmex**](https://github.com/nolim1t/nl-bitmex) - [Bitmex](https://www.bitmex.com/register/TjGKqo) Exchange API Library
 * [**nl-poloniex**](https://github.com/nolim1t/nl-poloniex) - Poloniex Exchange API library
 * [**nl-kraken**](https://github.com/nolim1t/nl-kraken) - Kraken API Library
 

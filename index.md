@@ -19,6 +19,8 @@ Right now I'm getting together the structure of the API library, and finding out
 
 Eventually my goal is to have a trading bot make enough money to be able to be self sufficient (as in not pay for the hosting service), then maybe eventually become another passive income stream.
 
+**Project** [nl-bitmex](https://github.com/nolim1t/nl-bitmex)
+
 ### Github Commit API - Improvements
 
 I wish to add some [more improvements](https://github.com/nolim1t/create_github_commit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) for this, as there's a lot of potential here.
@@ -46,8 +48,11 @@ I use bitcoin to get money across borders. Here are the current published librar
 
 These node.js modules are submitted to npmjs.org
 
-* **create_github_commit** - Library to use the git data API on github to create files
-* **fuckingundefinedemptynull** - Fighting javascript nulls and undefines one library at a time.
-* **nolim1t-foursquare** - Interfacing with the foursquare API. This is quite old but still works.
-* **urlstatuscheck** - Checking the HTTP status of a URL without downloading it.
-* **decode-post-body-params** - Decoding body parameters
+* [**create_github_commit**](https://github.com/nolim1t/create_github_commit) - Library to use the git data API on github to create files
+* [**fuckingundefinedemptynull**](https://github.com/nolim1t/fuckingundefinedemptynull) - Fighting javascript nulls and undefines one library at a time.
+* [**nolim1t-foursquare**](https://github.com/nolim1t/nolim1t-foursquare) - Interfacing with the foursquare API. This is quite old but still works.
+* [**urlstatuscheck**](https://github.com/nolim1t/urlstatuscheck) - Checking the HTTP status of a URL without downloading it.
+* [**decode-post-body-params**](https://github.com/nolim1t/decode-post-body-params) - Decoding body parameters
+* [**nl-bxth**](https://github.com/nolim1t/nl-bxth) - BX.in.th Exchange API Library
+* [**nl-bitmex**](https://github.com/nolim1t/nl-bitmex) - Bitmex Exchange API Library
+* [**nl-poloniex**](https://github.com/nolim1t/nl-poloniex) - Poloniex Exchange API library
